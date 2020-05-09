@@ -65,6 +65,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="DB\Category.cs" />
+    <Compile Include="DB\CategorySerializable.cs" />
     <Compile Include="DB\Customer.cs" />
     <Compile Include="DB\CustomerDemographic.cs" />
     <Compile Include="DB\Employee.cs" />
